@@ -27,12 +27,16 @@ Windows users who want a native version must port the macOS-specific components,
 
 ## Download the Mac app
 
-Version **1.1.4** is supplied in the [Mac](Mac) folder:
+**[Download for Mac — Tablet Studio v1.1.4](https://github.com/zyteng1997/tablet-studio/releases/tag/v1.1.4)**
 
-- [Tablet-Studio-Mac.pkg](Mac/Tablet-Studio-Mac.pkg) — installs `Tablet Studio.app` in `/Applications`.
-- [Tablet-Studio-Mac.zip](Mac/Tablet-Studio-Mac.zip) — alternative containing the same app; extract and copy it to `/Applications`.
-- [PTH451-settings.json](Mac/PTH451-settings.json) — optional settings preset with DaVinci Resolve shortcuts. Review before applying; it replaces the app's current settings rather than merging them.
-- [SHA256SUMS.txt](SHA256SUMS.txt) — checksums for the supplied Mac downloads.
+Get the ready-to-install app from **GitHub Releases**. The source code stays in this repository; GitHub's automatic “Source code” archives are not installers.
+
+- [Tablet-Studio-Mac.pkg](https://github.com/zyteng1997/tablet-studio/releases/download/v1.1.4/Tablet-Studio-Mac.pkg) — installs `Tablet Studio.app` in `/Applications`.
+- [Tablet-Studio-Mac.zip](https://github.com/zyteng1997/tablet-studio/releases/download/v1.1.4/Tablet-Studio-Mac.zip) — alternative containing the same app; extract and copy it to `/Applications`.
+- [PTH451-settings.json](https://github.com/zyteng1997/tablet-studio/releases/download/v1.1.4/PTH451-settings.json) — optional settings preset with DaVinci Resolve shortcuts. Review before applying; it replaces the app's current settings rather than merging them.
+- [SHA256SUMS.txt](https://github.com/zyteng1997/tablet-studio/releases/download/v1.1.4/SHA256SUMS.txt) — download beside the three release files, then run `shasum -a 256 -c SHA256SUMS.txt` from that folder.
+
+The original copies also remain in the [Mac](Mac) folder. The repository's [SHA256SUMS.txt](SHA256SUMS.txt) uses `Mac/` paths for the clone-based check below; the release checksum file uses filenames without that prefix.
 
 Choose **one** installation method. The downloads preserve the existing working transfer-kit binaries; a fresh source rebuild was checked separately, not substituted silently for them.
 
