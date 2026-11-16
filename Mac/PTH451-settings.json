@@ -1,0 +1,127 @@
+{
+  "cursorSensitivity": 0.3512629271582734,
+  "fourFingerAction": "desktops",
+  "naturalScroll": true,
+  "oneFingerCursor": true,
+  "palmRejection": true,
+  "penActions": [
+    "leftClick",
+    "rightClick"
+  ],
+  "penPressureExponent": 1,
+  "penShortcuts": [
+    {
+      "enabled": true,
+      "key": 6,
+      "modifiers": 1048576,
+      "title": "Undo"
+    },
+    {
+      "enabled": true,
+      "key": 49,
+      "modifiers": 0,
+      "title": "Play / pause"
+    }
+  ],
+  "resolveOnly": true,
+  "ringShortcuts": [
+    {
+      "enabled": true,
+      "key": 123,
+      "modifiers": 0,
+      "title": "Previous frame"
+    },
+    {
+      "enabled": true,
+      "key": 124,
+      "modifiers": 0,
+      "title": "Next frame"
+    },
+    {
+      "enabled": true,
+      "key": 27,
+      "modifiers": 1048576,
+      "title": "Zoom out"
+    },
+    {
+      "enabled": true,
+      "key": 24,
+      "modifiers": 1048576,
+      "title": "Zoom in"
+    },
+    {
+      "enabled": true,
+      "key": 126,
+      "modifiers": 0,
+      "title": "Previous clip"
+    },
+    {
+      "enabled": true,
+      "key": 125,
+      "modifiers": 0,
+      "title": "Next clip"
+    },
+    {
+      "enabled": true,
+      "key": 126,
+      "modifiers": 131072,
+      "title": "Previous marker"
+    },
+    {
+      "enabled": true,
+      "key": 125,
+      "modifiers": 131072,
+      "title": "Next marker"
+    }
+  ],
+  "ringStep": 2,
+  "scrollSensitivity": 0.3,
+  "tabletShortcuts": [
+    {
+      "enabled": true,
+      "key": 49,
+      "modifiers": 0,
+      "title": "Play / pause"
+    },
+    {
+      "enabled": true,
+      "key": 6,
+      "modifiers": 1048576,
+      "title": "Undo"
+    },
+    {
+      "enabled": true,
+      "key": 6,
+      "modifiers": 1179648,
+      "title": "Redo"
+    },
+    {
+      "enabled": true,
+      "key": 0,
+      "modifiers": 0,
+      "title": "Selection"
+    },
+    {
+      "enabled": true,
+      "key": 11,
+      "modifiers": 0,
+      "title": "Blade"
+    },
+    {
+      "enabled": true,
+      "key": 1,
+      "modifiers": 0,
+      "title": "Snapping"
+    }
+  ],
+  "tapMaxDurationMs": 250,
+  "tapMaxRawMovement": 25,
+  "tapToClick": true,
+  "threeFingerDrag": true,
+  "threeFingerSwipeThreshold": 200,
+  "threeFingerSwipes": false,
+  "touchEnabled": true,
+  "twoFingerScroll": true,
+  "twoFingerTapRightClick": true,
+  "eraserAction": "erase"
+}

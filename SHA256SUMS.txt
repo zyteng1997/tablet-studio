@@ -1,0 +1,3 @@
+e0ed5357956cecb67ed823850c926f81f29f0f0a9077c9eb7d5819bfcd8d159f  Mac/PTH451-settings.json
+19f40eadf22c0d5b2cf6fe8d736ab9b09ce4cfc48860c2f19a8ee307da1f36f1  Mac/Tablet-Studio-Mac.pkg
+f832526aeaaf692a697c26baa964b7556038293d4d34257db80ce66812efab13  Mac/Tablet-Studio-Mac.zip
